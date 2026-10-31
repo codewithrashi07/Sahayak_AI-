@@ -205,6 +205,28 @@ python main.py
 
 This project is a prototype for demonstration purposes.
 
+---
+
+## 👨‍💻 Author
+
+**Rashi Yadav**
+
+- **GitHub:** [@codewithrashi07](https://github.com/codewithrashi07)
+- **LinkedIn:** [Rashi Yadav](https://linkedin.com/in/rashi-yadav-617ab437b/)
+- **Email:** rashiyadav684@email.com
+
+---
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+- Open an [Issue](https://github.com/codewithrashi07/Sahayak_AI-/issues)
+- Email: rashiyadav684@email.com
+- Check existing [Discussions](https://github.com/codewithrashi07/Sahayak_AI-/discussions)
+
+---
+
+
 ## Disclaimer
 
 Sahayak is a coordination aid and prototype, not a replacement for emergency services or official disaster authorities. For real emergencies, always contact your local emergency services.
